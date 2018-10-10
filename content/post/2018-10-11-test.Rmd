@@ -1,0 +1,11 @@
+---
+title: Test
+author: Df
+date: '2018-10-11'
+slug: test
+categories:
+  - Hugo
+  - R
+tags:
+  - Markdown
+---
